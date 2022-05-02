@@ -1,6 +1,9 @@
 {
-  "name": "amazon-mws",
-  "version": "0.0.28",
+  "name": "@42technologies/amazon-mws",
+  "version": "1.0.0",
+  "publishConfig": {
+      "access": "public"
+  },
   "description": "Amazon MWS API wrapper",
   "keywords": [
     "Amazon MWS",
@@ -39,9 +42,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/bhushankumarl/amazon-mws.git"
+    "url": "git://github.com/42technologies/amazon-mws.git"
   },
-  "bugs:": "https://github.com/bhushankumarl/amazon-mws/issues",
+  "bugs:": "https://github.com/42technologies/amazon-mws/issues",
   "engines": {
     "node": ">= v0.10.0"
   },
