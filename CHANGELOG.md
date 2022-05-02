@@ -1,3 +1,7 @@
+1.0.0
+    - update to lockfile v2
+    - move mocha/chai to dev dependencies
+
 0.0.28
     - Stop support for the lower than NodeJs 8 version
     - Remove old examples
